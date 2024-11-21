@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Passionate data scientist with experience in different areas of data mining and statistical analysis. Fully qualified for applying machine learning and deep learning techniques to real-world problems. 
+Passionate data scientist with experience in different areas of data mining and statistical analysis. Fully qualified for applying machine learning and deep learning techniques to real-world problems. 
 
 
 ## 🌐 Socials:
